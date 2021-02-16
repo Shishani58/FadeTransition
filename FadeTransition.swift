@@ -1,11 +1,3 @@
-//
-//  FadeTransition.swift
-//  QuranAcademy
-//
-//  Created by Ayub on 21.11.2020.
-//  Copyright © 2020 Quran Academy. All rights reserved.
-//
-
 import UIKit
 
 final class FadeTransition: NSObject, UIViewControllerTransitioningDelegate {
